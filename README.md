@@ -50,14 +50,11 @@ The frontend was developed using **HTML, CSS, and JavaScript**, serving only as 
 - The system must allow sorting tasks by due date.
 - All data must be validated before being stored in the database.
 
----
-
 ## 🗂 Conceptual Model
 ![Conceptual](./readme_images/conceptual_managetask.png)
----
 
 ## 🗄 Logical Model
-
+![Conceptual](./readme_images/logical_managetask.png)
 
 ## 🛠 Technologies
 
